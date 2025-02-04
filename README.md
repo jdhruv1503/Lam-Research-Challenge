@@ -75,14 +75,6 @@ Detailed usage instructions for each component can be found in their respective 
 - Round 3/Webserver/README.md
 - Round 3/Firmware - Robotic Arm/firmware.ino
 
-## Contributing
-
-This repository contains the winning solutions for the 2024 LAM Research Challenge. While it serves as a reference, contributions for improvements or bug fixes are welcome through pull requests.
-
-## License
-
-[License information to be added]
-
 ## Acknowledgments
 
-Special thanks to LAM Research for organizing this challenge and providing the opportunity to develop these solutions. 
+Special thanks to Lam Research for organizing this challenge and providing the opportunity to develop these solutions! <3
